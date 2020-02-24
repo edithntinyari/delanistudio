@@ -1,0 +1,37 @@
+.header{
+background-image: url("../assets/backgrounds/h-img.jpg");
+text-align: center;
+height: 650pxpx;
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+/* background-color: black; */
+}
+#logo{
+    justify-content:center ;
+    display: flex;
+    align-items: center;
+    display: flex;
+    
+}
+.mouseclick{
+    padding-top: 400px;
+}
+.services{
+    background-image: url("../assets/backgrounds/s_image.jpg");
+    height:400px;
+    text-align: center;
+    color:white;
+
+}
+
+  .about{
+      font-size: 15px;
+      margin-right: 150px;
+      margin-left: 150px;
+      font-family:sans-serif;
+  }
+  h2{
+      text-align: center;
+
+  }      
