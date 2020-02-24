@@ -15,7 +15,7 @@ CSS :To style the webpage.
 Java script :To make the web page interactive
 
 ## SETUP INSTRUCTINS
-:Gitclone my live link on your terminal. Navigate through the Downloads to delanistudio  folder.
+Gitclone my live link on your terminal. Navigate through the Downloads to delanistudio  folder.
 
 ## Technical requirements
 Any web browser but i would recommend google chrome
