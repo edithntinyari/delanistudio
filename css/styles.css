@@ -35,12 +35,7 @@ color: white;
       text-align: center;
 
   }  
-  .development img{
-      display: block;
-      margin-left: 40px;
-      justify-content: space-around;
-
-  } 
+   
   #about{
     text-align: center;
   } 
@@ -53,7 +48,24 @@ color: white;
   
   .footer{
       margin-left: 40%;
+
   }
+
   #contacts{
       margin-left: 40;
+  }
+  #submitForm{
+      margin-left: 30%;
+  }
+  .contacts{
+      background-image: url("../assets/backgrounds/c_image.jpg");
+  }
+
+
+ #submitForm input, textarea {
+      background: transparent;
+      border: 1px solid white;
+  }
+  #porfolio{
+      margin-right: 40%;
   }
