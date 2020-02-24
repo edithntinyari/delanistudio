@@ -34,4 +34,26 @@ color: white;
   h2{
       text-align: center;
 
-  }      
+  }  
+  .development img{
+      display: block;
+      margin-left: 40px;
+      justify-content: space-around;
+
+  } 
+  #about{
+    text-align: center;
+  } 
+  .services{
+      text-align: center;
+  } 
+  .images{
+      margin-left: 30%;
+  }
+  
+  .footer{
+      margin-left: 40%;
+  }
+  #contacts{
+      margin-left: 40;
+  }
