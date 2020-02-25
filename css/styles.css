@@ -34,4 +34,42 @@ color: white;
   h2{
       text-align: center;
 
-  }      
+  }  
+   
+  #about{
+    text-align: center;
+  } 
+  .services{
+      text-align: center;
+  } 
+  .images{
+      margin-left: 30%;
+  }
+  
+  .footer{
+      margin-left: 40%;
+
+  }
+
+  #contacts{
+      margin-left: 40;
+  }
+  #submitForm{
+      margin-left: 30%;
+  }
+  .contacts{
+      background-image: url("../assets/backgrounds/c_image.jpg");
+  }
+
+
+ #submitForm input, textarea {
+      background: transparent;
+      border: 1px solid white;
+  }
+  #porfolio{
+      margin-right: 40%;
+  }
+
+  #p1-showing {
+    display: none;
+  }
