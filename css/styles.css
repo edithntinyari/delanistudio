@@ -69,3 +69,7 @@ color: white;
   #porfolio{
       margin-right: 40%;
   }
+
+  #p1-showing {
+    display: none;
+  }
